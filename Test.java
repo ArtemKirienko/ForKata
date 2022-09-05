@@ -176,6 +176,8 @@ try {
             }
             System.out.println("Output :");
             System.out.println(result);
+             System.out.println("Kata");
+
 
 }
 
